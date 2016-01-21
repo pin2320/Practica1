@@ -1,0 +1,2 @@
+Para que Git ignore archivos en nuestro repositorio se tiene que hacer uso del archivo .gitignore.
+Este archivo .gitignore se tiene que añadir en la raiz de nuestro proyecto y dentro de este archivo incluir la ruta del archivo o subdirectorios que se quieren ser ignorados en el 'add *'
